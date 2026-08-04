@@ -11,7 +11,7 @@ export const profile = {
   email: 'saikirankshet@gmail.com',
   linkedin: 'https://linkedin.com/in/saikiran-shet', // placeholder — update with real URL
   github: 'https://github.com/saikiran-shet', // placeholder — update with real URL
-  portfolio: 'https://saikiran-shet.github.io/portfolio/', // placeholder — update with real URL
+  portfolio: 'https://saikiran-shet.github.io/portf/', // placeholder — update with real URL
   tagline:
     'I build systems that turn noisy, real-world signals — starlight, medical scans, safety alerts — into something a machine, and a person, can trust.',
 }
